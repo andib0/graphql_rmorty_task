@@ -1,0 +1,18 @@
+{
+  "title": "L'API Rick e Morty",
+  "technologies": "Tecnologie utilizzate: React Typescript Apollo GraphQL Vite Tailwindcss i18next localStorage Zustand",
+  "status": "Stato",
+  "species": "Specie",
+  "gender": "Genere",
+  "origin": "Origine",
+  "load_more": "Carica di più",
+  "loading": "Caricamento...",
+  "error": "Si è verificato un errore.",
+  "alive": "Vivo",
+  "dead": "Morto",
+  "unknown": "Sconosciuto",
+  "footer": "Andi Basha ∘ Alimentato da ☕",
+  "sort_by": "Ordina per",
+  "order": "Ordine",
+  "name": "Nome"
+}

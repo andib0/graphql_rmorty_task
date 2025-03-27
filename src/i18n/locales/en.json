@@ -1,0 +1,19 @@
+{
+  "title": "The Rick and Morty API",
+  "technologies": "Technologies Used: React Typescript Apollo GraphQL Vite Tailwindcss i18next localStorage Zustand",
+  "status": "Status",
+  "species": "Species",
+  "gender": "Gender",
+  "origin": "Origin",
+  "load_more": "Load More",
+  "loading": "Loading...",
+  "error": "An error occurred.",
+  "alive": "Alive",
+  "dead": "Dead",
+  "unknown": "Unknown",
+  "footer": "Andi Basha ∘ Fueled by ☕",
+  "reset": "Reset",
+  "sort_by": "Sort by",
+  "order": "Order",
+  "name": "Name"
+}

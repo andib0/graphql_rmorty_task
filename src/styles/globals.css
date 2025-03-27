@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(to bottom, #0a192f, #020b1a);
+}
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("../assets/Rick.svg") center/cover no-repeat;
+  z-index: -1;
+  opacity: 0.5;
+}
