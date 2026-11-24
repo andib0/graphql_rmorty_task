@@ -14,7 +14,7 @@
     "@tailwindcss/vite": "^4.0.16",
     "autoprefixer": "^10.4.21",
     "graphql": "^16.10.0",
-    "i18next": "^24.2.3",
+    "i18next": "^27.2.7",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
